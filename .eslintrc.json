@@ -7,7 +7,7 @@
 //     "extends": [
 //         // "eslint:recommended", 
 //         "prettier"
-//     ],
+//     ], 
 //     "parserOptions": {
 //         "sourceType": "module",
 //         "ecmaVersion": 2022
